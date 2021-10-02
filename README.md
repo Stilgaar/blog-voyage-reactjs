@@ -1,6 +1,7 @@
 # blogvoyage-reactJs
 Premier projet en React-Js, Yhea baby !
+Instructions après avoir cloné :
 
-npm i
-
-npm run start
+<strong> npm i 
+ 
+npm run start </strong>

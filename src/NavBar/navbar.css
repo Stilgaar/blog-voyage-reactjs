@@ -1,0 +1,19 @@
+.navi {
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: whitesmoke;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    width: 100%;
+    
+}
+
+.element {
+    margin: 15px;
+    font-size: 25px;
+    padding-left: 100px;
+   
+
+}

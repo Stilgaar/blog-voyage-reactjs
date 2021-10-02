@@ -1,0 +1,9 @@
+.foot {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-top: 3%;
+    background-color: whitesmoke;
+    text-align: left;
+}

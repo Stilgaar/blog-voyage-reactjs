@@ -1,0 +1,15 @@
+.barre {
+    border: 0.1px solid black;
+    border-radius: 15px;
+    margin: auto;
+     }
+
+.textes {
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.box {
+   margin-left: 50%;
+   margin-right: 50%;  
+}

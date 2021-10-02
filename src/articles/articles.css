@@ -1,0 +1,31 @@
+.corpsdumessage {
+
+        border: 0.1px solid black;
+        border-radius: 15px;
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: column ;
+        padding: 1%;
+        margin-top: 15px;
+        
+}
+
+body {
+    text-align: center;
+    margin: auto;
+    width: 100%;
+}
+
+.bouton {
+    display: flex;
+    margin: auto;
+    width: 150px;
+}
+
+.laboitealike {
+    border: 3px solid #4267B2;
+    border-radius: 15px;
+    color : #4267B2;
+    width: max-content;
+    padding: 10px;
+}

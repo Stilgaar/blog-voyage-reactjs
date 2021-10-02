@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/blogvoyage-reactJs/static/css/main.85af33e0.chunk.css",
+    "main.js": "/blogvoyage-reactJs/static/js/main.9684a7fb.chunk.js",
+    "main.js.map": "/blogvoyage-reactJs/static/js/main.9684a7fb.chunk.js.map",
+    "runtime-main.js": "/blogvoyage-reactJs/static/js/runtime-main.15a99fa8.js",
+    "runtime-main.js.map": "/blogvoyage-reactJs/static/js/runtime-main.15a99fa8.js.map",
+    "static/js/2.2ce1f004.chunk.js": "/blogvoyage-reactJs/static/js/2.2ce1f004.chunk.js",
+    "static/js/2.2ce1f004.chunk.js.map": "/blogvoyage-reactJs/static/js/2.2ce1f004.chunk.js.map",
+    "static/js/3.c693f27c.chunk.js": "/blogvoyage-reactJs/static/js/3.c693f27c.chunk.js",
+    "static/js/3.c693f27c.chunk.js.map": "/blogvoyage-reactJs/static/js/3.c693f27c.chunk.js.map",
+    "index.html": "/blogvoyage-reactJs/index.html",
+    "static/css/main.85af33e0.chunk.css.map": "/blogvoyage-reactJs/static/css/main.85af33e0.chunk.css.map",
+    "static/js/2.2ce1f004.chunk.js.LICENSE.txt": "/blogvoyage-reactJs/static/js/2.2ce1f004.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15a99fa8.js",
+    "static/js/2.2ce1f004.chunk.js",
+    "static/css/main.85af33e0.chunk.css",
+    "static/js/main.9684a7fb.chunk.js"
+  ]
+}
